@@ -164,10 +164,7 @@ switch (device) {
 `break;`: 각 case를 실행하고 마무리. 
 `default:` : 그 외 case 값일 경우 
 
----
-2장 진도. 
-# 01. 삼항 연산자 
----
+
 
 
 
